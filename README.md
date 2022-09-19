@@ -1,6 +1,3 @@
-# AWS-Container-Services-Deep-Dive
-
-
 # Hi there 👋, I'm Shyju Krishnan 
 
 <h3 align="left">Connect with Me:</h3>
