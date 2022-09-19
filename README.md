@@ -13,9 +13,9 @@
 
 ## Topics 
 
-* [kubernetes installation prerequisites (on-premises)](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Prerequisites.MD)
-* [Kubernet cluster installation and configuration (on-premises)](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Installation.md)
-* [Q&A](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Q%26A.md)
+* [Elastic container registry ](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Prerequisites.MD)
+* [Elastic Container Service (ECS)](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Installation.md)
+* [Blue green deployment ](https://github.com/cloudnloud/Kubernet-Deep-Dive/blob/main/Q%26A.md)
 
 
 
