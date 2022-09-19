@@ -8,7 +8,7 @@
 
 # Welcome to AWS Container Services-Deep Dive
 
-<img src="[https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png](https://github.com/cloudnloud/AWS-Container-Services-Deep-Dive/blob/main/01/ECS.png)" width="100">
+<img src="https://github.com/cloudnloud/AWS-Container-Services-Deep-Dive/blob/main/01/ECS.png" width="100">
 
 
 ## Topics 
